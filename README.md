@@ -8,7 +8,7 @@ _We can't wait to see what you build!_
 
 This repository stores documents and artifacts produced by the `ray-project` developer community.
 
-* `rfcs` - A collection of design documents for `ray-project` libraries, as well as Ray Core.
+* `rfcs` - A collection of design documents for the `ray-project` and its libraries.
 * `sigs` - Documentation and logistics for our special interest groups (SIGs).
 * `governance` - Logistics and best practices for working in the `ray-project` community.
 
