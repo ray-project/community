@@ -8,9 +8,9 @@ _We can't wait to see what you build!_
 
 This repository stores documents and artifacts produced by the [`ray-project`](github.com/ray-project) developer community.
 
-* [`rfcs`]() - A collection of design documents for the `ray-project` and its libraries.
-* [`sigs`]() - Documentation and logistics for our special interest groups (SIGs).
-* [`governance`]() - Logistics and best practices for working in the `ray-project` community.
+* [`rfcs`](https://github.com/ray-project/community/tree/main/rfcs) - A collection of design documents for the `ray-project` and its libraries.
+* [`sigs`](https://github.com/ray-project/community/tree/main/sigs) - Documentation and logistics for our special interest groups (SIGs).
+* [`governance`](https://github.com/ray-project/community/tree/main/governance) - Logistics and best practices for working in the `ray-project` community.
 
 ### 📧  Get in touch
 
