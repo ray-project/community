@@ -14,7 +14,7 @@ This repository stores documents and artifacts produced by the [`ray-project`](g
 
 ### 📧  Get in touch
 
-For questions about this repository, please file an issue on the `community` repo, or email [dynamicwebpaige@gmail.com]().
+For questions about this repository, please file an issue on the `community` repo, or email [paige@anyscale.com](mailto:paige@anyscale.com).
 
 ### 💻   Additional Links
 
