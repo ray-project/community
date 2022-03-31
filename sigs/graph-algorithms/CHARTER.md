@@ -2,14 +2,14 @@
 
 ## Objective
 
-Graphs are becoming increasingly popular for data analysis due to their ability to represent non-structured, high-dimensional data in non-Euclidean space. As a result, many Ray users and Ray Ecosystem library authors have indicated interest in: 
+Graphs are becoming increasingly popular for data analysis due to their ability to efficiently represent non-structured, high-dimensional data in non-Euclidean space. As a result, many Ray users and Ray Ecosystem library authors have indicated interest in: 
 
 * Scaling out their graph algorithms to multiple nodes;
 * Enabling large-scale distributed graph training, serving, and preprocessing; 
 * Training graph neural networks (GNN) on large graph databases;
 * ...and much more.
 
-To that end, the purpose of this special interest group will be to define and maintain a collection of well-established APIs that implement novel, graph-related functionality not previously available in Ray or its supplemental libraries (Train, Tune, Serve, Datasets, etc.).
+To that end, the purpose of this special interest group will be to define and maintain a collection of well-established APIs and data structures that implement novel, graph-related functionality not previously available in Ray or its supplemental libraries (Train, Tune, Serve, Datasets, etc.).
 
 ## Scope
 
@@ -17,7 +17,7 @@ This group supports, prioritizes, and maintains graph-related features within th
 
 * The functionality is generic enough to be included in Ray itself, rather than in a supplemental or framework-specific higher-level library (ex: [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)).
 * The functionality conforms to an established API pattern in Ray or its affiliate libraries (ex: Train, Serve, Datasets).
-* The functionality must include tests, and must evolve as Ray evolves.
+* The functionality must include unit tests, and the functionality must evolve as Ray evolves.
 * The new functionality conforms to the code and documentation standards defined by the group. These policies are detailed in the Ray project's [contributor guide]().
 * The functionality is useful for a large number of users (e.g., an implenentation used in widely cited paper, or a utility with broad applicability)
 
@@ -29,9 +29,9 @@ Anyone with an interest in helping extend the Ray open-source project with new t
 
 ## Resources
 
-* SIG Graph Algorithms mailing list
+* SIG Graph Algorithms mailing list (?)
 * Features added by SIG Graph Algorithms
-* SIG design docs
+* SIG design docs 
 
 ## Contacts
 
