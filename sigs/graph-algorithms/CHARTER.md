@@ -36,8 +36,8 @@ Anyone with an interest in helping extend the Ray open-source project with new t
 ## Contacts
 
 * Project leads: ???
-* Ray OSS technical contact: [@amogkam], [@richardliaw]
-* Ray OSS product contact: [@dynamicwebpaige]
+* Ray OSS technical contact: @amogkam, @richardliaw
+* Ray OSS product contact: @dynamicwebpaige
 
 ## Code of Conduct
 
