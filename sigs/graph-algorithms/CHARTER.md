@@ -35,7 +35,7 @@ Anyone with an interest in helping extend the Ray open-source project with new t
 
 ## Contacts
 
-* Community leads: ???
+* Community leads: Matthias Fey (@rusty1s) and the PyTorch Geometric team
 * Ray OSS technical contact: @amogkam, @richardliaw
 * Ray OSS product contact: @dynamicwebpaige
 
